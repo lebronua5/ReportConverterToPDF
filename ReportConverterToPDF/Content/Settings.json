@@ -1,0 +1,6 @@
+﻿{
+  "Data": {
+    "FirstStart": 5,   // 5 minutes
+    "RegularStart": 20  // 20 minutes
+  }
+}
